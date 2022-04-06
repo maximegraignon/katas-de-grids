@@ -23,7 +23,7 @@
         grid-template-columns: 120px auto 120px;
         grid-template-areas:
                     "header  header  header  header"
-                    "sidebar  sidebar2  sidebar2 content"
+                    "sidebar content content sidebar2"
                     "footer  footer  footer  footer";
 
         /* CENTRAGE */
